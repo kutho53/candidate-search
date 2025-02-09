@@ -13,6 +13,7 @@ dist-ssr
 *.local
 environment/.env
 environment/.env.EXAMPLE
+.env
 
 
 # Editor directories and files
